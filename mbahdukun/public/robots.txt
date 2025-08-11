@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbahdukun.web.id/sitemap.xml
